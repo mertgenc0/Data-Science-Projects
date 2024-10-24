@@ -1,0 +1,140 @@
+Index: Belarus Car Price Prediction/Belarus Car Price Prediction.ipynb
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/Belarus Car Price Prediction/Belarus Car Price Prediction.ipynb b/Belarus Car Price Prediction/Belarus Car Price Prediction.ipynb
+--- a/Belarus Car Price Prediction/Belarus Car Price Prediction.ipynb	
++++ b/Belarus Car Price Prediction/Belarus Car Price Prediction.ipynb	
+@@ -43,8 +43,8 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:28.299515Z",
+-     "start_time": "2024-10-22T22:17:28.297651Z"
++     "end_time": "2024-10-24T08:48:24.961316Z",
++     "start_time": "2024-10-24T08:48:24.900135Z"
+     }
+    }
+   },
+@@ -53,8 +53,8 @@
+    "execution_count": 1,
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:28.307263Z",
+-     "start_time": "2024-10-22T22:17:28.300601Z"
++     "end_time": "2024-10-24T08:48:34.119382Z",
++     "start_time": "2024-10-24T08:48:34.106905Z"
+     }
+    },
+    "outputs": [],
+@@ -71,8 +71,8 @@
+    "execution_count": 2,
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:30.760531Z",
+-     "start_time": "2024-10-22T22:17:30.703168Z"
++     "end_time": "2024-10-24T08:49:05.459597Z",
++     "start_time": "2024-10-24T08:49:05.391320Z"
+     }
+    },
+    "outputs": [
+@@ -105,8 +105,8 @@
+    "execution_count": 3,
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:32.182248Z",
+-     "start_time": "2024-10-22T22:17:32.161521Z"
++     "end_time": "2024-10-24T08:49:09.189740Z",
++     "start_time": "2024-10-24T08:49:09.170334Z"
+     }
+    },
+    "outputs": [
+@@ -129,8 +129,8 @@
+    "execution_count": 4,
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:33.270117Z",
+-     "start_time": "2024-10-22T22:17:33.256589Z"
++     "end_time": "2024-10-24T08:49:21.468347Z",
++     "start_time": "2024-10-24T08:49:21.456246Z"
+     }
+    },
+    "outputs": [
+@@ -153,8 +153,8 @@
+    "execution_count": 5,
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:33.812937Z",
+-     "start_time": "2024-10-22T22:17:33.803619Z"
++     "end_time": "2024-10-24T08:49:24.789029Z",
++     "start_time": "2024-10-24T08:49:24.776081Z"
+     }
+    },
+    "outputs": [],
+@@ -168,8 +168,8 @@
+    "execution_count": 6,
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:34.469039Z",
+-     "start_time": "2024-10-22T22:17:34.449060Z"
++     "end_time": "2024-10-24T08:49:25.652442Z",
++     "start_time": "2024-10-24T08:49:25.631922Z"
+     }
+    },
+    "outputs": [
+@@ -192,8 +192,8 @@
+    "execution_count": 7,
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:35.241894Z",
+-     "start_time": "2024-10-22T22:17:35.237972Z"
++     "end_time": "2024-10-24T08:49:28.755932Z",
++     "start_time": "2024-10-24T08:49:28.741737Z"
+     }
+    },
+    "outputs": [
+@@ -224,8 +224,8 @@
+    "execution_count": 8,
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:36.627580Z",
+-     "start_time": "2024-10-22T22:17:36.610780Z"
++     "end_time": "2024-10-24T08:49:35.474379Z",
++     "start_time": "2024-10-24T08:49:35.463718Z"
+     }
+    },
+    "outputs": [],
+@@ -263,8 +263,8 @@
+    "execution_count": 9,
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:38.326769Z",
+-     "start_time": "2024-10-22T22:17:38.313821Z"
++     "end_time": "2024-10-24T08:49:37.209093Z",
++     "start_time": "2024-10-24T08:49:37.194534Z"
+     }
+    },
+    "outputs": [
+@@ -287,8 +287,8 @@
+    "execution_count": 10,
+    "metadata": {
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:39.109689Z",
+-     "start_time": "2024-10-22T22:17:39.106321Z"
++     "end_time": "2024-10-24T08:49:41.539138Z",
++     "start_time": "2024-10-24T08:49:41.526206Z"
+     }
+    },
+    "outputs": [
+@@ -325,8 +325,8 @@
+    "metadata": {
+     "collapsed": false,
+     "ExecuteTime": {
+-     "end_time": "2024-10-22T22:17:41.218613Z",
+-     "start_time": "2024-10-22T22:17:41.212961Z"
++     "end_time": "2024-10-24T08:49:44.977459Z",
++     "start_time": "2024-10-24T08:49:44.951052Z"
+     }
+    }
+   },
