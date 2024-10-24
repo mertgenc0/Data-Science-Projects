@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b06d9681-f9ef-4be3-b462-47601499f8c3" name="Changes" comment="update">
+      <change beforePath="$PROJECT_DIR$/Crop Yield Prediction/crop yield prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Crop Yield Prediction/crop yield prediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diamond Price Prediction/Diamond Price Prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Diamond Price Prediction/Diamond Price Prediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Medical Cost Prediction/Medical Cost Prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Medical Cost Prediction/Medical Cost Prediction.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="mert" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2nmgYmEyj4sbRL3HIIjMpSdin3O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "mert",
+    "last_opened_file_path": "/Users/mertgenc/Desktop/AllDataScience/Data-Science-Projects",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b06d9681-f9ef-4be3-b462-47601499f8c3" name="Changes" comment="" />
+      <created>1729583714725</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729583714725</updated>
+      <workItem from="1729583715754" duration="60000" />
+      <workItem from="1729583782953" duration="253000" />
+      <workItem from="1729590298062" duration="489000" />
+      <workItem from="1729590797380" duration="1590000" />
+      <workItem from="1729604595087" duration="26000" />
+      <workItem from="1729606184333" duration="473000" />
+      <workItem from="1729629906000" duration="634000" />
+      <workItem from="1729630547023" duration="900000" />
+      <workItem from="1729631459147" duration="3506000" />
+      <workItem from="1729635441524" duration="407000" />
+      <workItem from="1729709981032" duration="61000" />
+      <workItem from="1729759568905" duration="295000" />
+      <workItem from="1729759870314" duration="4782000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <option name="closed" value="true" />
+      <created>1729631833975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729631833975</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/mertgenc/Desktop/AllDataScience/Data-Science-Projects/Heart Stroke Prediction/Stroke detection.ipynb</url>
+          <line>42</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
