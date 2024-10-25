@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b06d9681-f9ef-4be3-b462-47601499f8c3" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_10_2024,_11_50_[Changes]/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_10_2024,_11_50_[Changes]1/shelved.patch" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_10_2024__11_50__Changes_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_24_10_2024__11_50__Changes_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Crop Yield Prediction/~$crop yield data sheet.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Data-Science-Projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data-Science-Projects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Crop Yield Prediction/crop yield prediction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Crop Yield Prediction/crop yield prediction.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Crop Yield Prediction/~$crop yield data sheet.xlsx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +50,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/mertgenc/Desktop/AllDataScience/Data-Science-Projects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -87,7 +80,8 @@
       <workItem from="1729635441524" duration="407000" />
       <workItem from="1729709981032" duration="61000" />
       <workItem from="1729759568905" duration="295000" />
-      <workItem from="1729759870314" duration="5370000" />
+      <workItem from="1729759870314" duration="5372000" />
+      <workItem from="1729886338607" duration="16000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <option name="closed" value="true" />
